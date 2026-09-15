@@ -1,0 +1,17 @@
+2026-09-16 01:52:16 | INFO | facevault | FaceVault 1.0.0 启动，数据目录=C:\Users\33424\Desktop\人脸识别\发布版\人脸识别\FaceVaultData
+2026-09-16 01:52:16 | INFO | facevault.database | SQLite 数据库已初始化
+2026-09-16 01:52:16 | INFO | facevault.camera | 已加载本地人脸特征数量=0
+2026-09-16 01:52:16 | INFO | facevault.camera | 人脸检测与识别模型已加载
+2026-09-16 01:52:19 | INFO | facevault.camera | 摄像头已打开，index=0，backend=700
+2026-09-16 01:52:20 | INFO | facevault.camera | 已加载本地人脸特征数量=0
+2026-09-16 01:54:55 | INFO | facevault.camera | 摄像头资源已释放
+2026-09-16 01:54:56 | INFO | facevault.enrollment | 录入模块模型已加载
+2026-09-16 01:56:20 | INFO | facevault.database | 已添加人员档案，样本数=15
+2026-09-16 01:56:31 | INFO | facevault | FaceVault 1.0.0 启动，数据目录=C:\Users\33424\Desktop\人脸识别\发布版\人脸识别\FaceVaultData
+2026-09-16 01:56:31 | INFO | facevault.database | SQLite 数据库已初始化
+2026-09-16 01:56:31 | INFO | facevault.camera | 已加载本地人脸特征数量=15
+2026-09-16 01:56:31 | INFO | facevault.camera | 人脸检测与识别模型已加载
+2026-09-16 01:56:35 | INFO | facevault.camera | 摄像头已打开，index=0，backend=700
+2026-09-16 01:56:35 | INFO | facevault.camera | 已加载本地人脸特征数量=15
+2026-09-16 01:57:07 | INFO | facevault.main_window | FaceVault 正在退出
+2026-09-16 01:57:07 | INFO | facevault.camera | 摄像头资源已释放
